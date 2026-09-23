@@ -277,7 +277,7 @@ reason is documented in the script that makes the change.
 
 ## Authors
 
-**Hossam Hatem** (241002731) · **Aseel Mohamed** (212002383) · **May Elsayed** (222000123)
+**Hossam Hatem**
 
 CIT649 Statistical Analysis and Visualization, Nile University. Supervised by
 Dr. Mohamed Mysara.
