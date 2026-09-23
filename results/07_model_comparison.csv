@@ -1,0 +1,6 @@
+"model","formula","n","r_squared","adj_r_squared","f_p_value"
+"m1_placebo_gender","bp.reduction ~ gender",10,0.531232725262576,0.472636815920398,0.016788312994403
+"m2_dose_extremes","bp.reduction ~ dose",20,0.797662802751861,0.786421847349187,1.16596865702537e-07
+"m3_dose_all","bp.reduction ~ dose",40,0.738730645863813,0.73185513654444,1.24699980758187e-12
+"m4_dose_plus_gender","bp.reduction ~ dose + gender",40,0.750661960941235,0.73718422910022,6.92768261572914e-12
+"m5_dose_x_gender","bp.reduction ~ dose * gender",40,0.781624766938224,0.763426830849742,5.55002155190874e-12

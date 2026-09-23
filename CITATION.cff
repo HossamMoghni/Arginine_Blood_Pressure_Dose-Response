@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+title: Arginine Dose Response in Hypertension
+message: If you use this analysis, please cite it as below.
+type: software
+authors:
+  - family-names: Hatem
+    given-names: Hossam
+    affiliation: Nile University
+  - family-names: Mohamed
+    given-names: Aseel
+    affiliation: Nile University
+  - family-names: Elsayed
+    given-names: May
+    affiliation: Nile University
+abstract: >-
+  A reproducible statistical analysis of a dose-finding trial in which 40
+  hypertensive patients were randomised across four daily doses of arginine
+  (0, 2, 5 and 10 mg) and systolic blood pressure reduction was measured after
+  two months. Covers descriptive statistics, assumption testing, confidence
+  intervals, hypothesis testing with post-hoc comparison, and linear modelling.
+  Finds a linear dose response of 1.79 mmHg per mg/day and a significant
+  dose-by-sex interaction that an additive model does not detect.
+keywords:
+  - statistics
+  - R
+  - dose-response
+  - hypertension
+  - ANOVA
+  - linear-regression
+  - reproducible-research
+license: MIT
+date-released: 2025-01-31

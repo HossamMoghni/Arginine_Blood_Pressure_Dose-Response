@@ -1,0 +1,4 @@
+"method","n_outliers"
+"boxplot fence (overall)",0
+"z-score |z| > 3",0
+"boxplot fence (within dose)",1

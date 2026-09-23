@@ -1,0 +1,5 @@
+"hypothesis","test","alternative","statistic","df","p_value"
+"H1 placebo: male vs female","two-sample t-test (pooled)","two.sided",3.01098617330752,8,0.016788312994403
+"H2 dose 10 > dose 0","Welch two-sample t-test","less (one-sided)",-8.42380020384168,17.5646790871773,7.01688868194965e-08
+"H2 dose 10 > dose 0","pooled t-test (sensitivity)","less (one-sided)",-8.42380020384168,18,5.82984328512686e-08
+"H3 difference across doses","one-way ANOVA","two.sided",35.4230211188135,3,7.70730321745826e-11

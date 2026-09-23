@@ -1,0 +1,5 @@
+"comparison","test","statistic","p_value"
+"bp.reduction by gender","Levene",1.81006360633105,0.186474446782325
+"bp.reduction by gender","F-test",0.510370468533734,0.144688157567361
+"bp.reduction by dose","Levene",0.95171588188348,0.425964997690878
+"bp.reduction by dose","Bartlett",3.92353855632521,0.269839833401603
